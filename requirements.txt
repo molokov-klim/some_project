@@ -1,0 +1,24 @@
+Appium-Python-Client
+selenium
+pytest
+allure-python-commons
+pytest-selenium
+termcolor
+beautifulsoup4
+allure_pytest
+opencv-python
+
+pyserial
+coloredlogs
+
+#pip install pytest-xdist — для параллелизации тестов
+
+requests
+
+
+Pillow
+
+
+
+#pip install -r requirements.txt --upgrade
+
